@@ -1,2 +1,2 @@
 # project-akhir-wabw
-Kelompok 6:
+Kelompok 1
