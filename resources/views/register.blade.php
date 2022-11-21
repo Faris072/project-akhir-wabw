@@ -37,7 +37,7 @@
 
 <body>
     @if(session()->has('pesan'))
-    <script>swal("Register gagal!", "{{ session('pesan') }}", "error");</script>
+        <script>swal("Register gagal!", "{{ session('pesan') }}", "error");</script>
     @endif
 
     {{-- navbar --}}
